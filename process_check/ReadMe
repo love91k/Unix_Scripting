@@ -1,6 +1,0 @@
-shell script to take take third most CPU & Memory consuming process, this should output to output file with the following properties
-a.	Process Name 
-b.	% CPU  used 
-c.	% Memory used  
-d.	PORT 
-e.	PID
